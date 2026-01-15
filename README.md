@@ -1,6 +1,5 @@
 <picture>
- <source media="(header)" srcset="https://github.com/efretwell/images/blob/main/laptop%20header.JPG">
- <img alt="Header" src="https://github.com/efretwell/images/blob/main/laptop%20header.JPG">
+ <img alt="Header" src="https://github.com/efretwell/images/blob/main/laptop%20header.JPG" width="400">
 </picture>
 
 # About me
