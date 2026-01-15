@@ -1,3 +1,8 @@
+<picture>
+ <source media="(header)" srcset="https://github.com/efretwell/images/blob/main/laptop%20header.JPG">
+ <img alt="Header" src="https://github.com/efretwell/images/blob/main/laptop%20header.JPG">
+</picture>
+
 # About me
 
 - 🔭 I’m currently working on: finding a new job as a Technical Writer.
