@@ -4,7 +4,7 @@
 
 # About me
 
-- 🔭 I’m currently working on: finding a new job as a Technical Writer.
+- 🔭 I’m currently working on: finding a new Technical Writing job.
 - 🌱 I’m currently learning: more about GitHub.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
